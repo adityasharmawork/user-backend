@@ -1,0 +1,33 @@
+# Node modules folder
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# MongoDB files
+*.db
+
+# Build output
+/dist
+/build
+
+# Temporary files
+*.swp
+*.swo
+
+# VSCode settings
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# NPM package lock file
+package-lock.json
+
+# IDE & editor specific files (you can add your own IDE/editor)
+.idea/
+*.iml
