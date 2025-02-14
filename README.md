@@ -12,12 +12,19 @@ JWT Authentication: Use of JWT tokens for managing authentication and protecting
 Data Validation: Server-side validation using Zod to ensure the integrity of the data submitted.
 Security: Secure password storage using bcryptjs hashing and validation for each API request.
 
+
 ## Tech Stack
+
 Backend Framework: Express.js (Node.js)
+
 Database: MongoDB (NoSQL Database)
+
 Authentication: JWT (JSON Web Tokens)
+
 Password Hashing: bcryptjs
+
 Validation: Zod
+
 
 ## Setup & Installation
 To get the project up and running on your local machine, follow these steps:
