@@ -25,6 +25,8 @@ Password Hashing: bcryptjs
 
 Validation: Zod
 
+API Testing: Postman
+
 
 ## Setup & Installation
 To get the project up and running on your local machine, follow these steps:
